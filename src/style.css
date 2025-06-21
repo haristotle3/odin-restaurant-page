@@ -71,3 +71,9 @@ header nav button {
   padding: 8px;
   border-radius: 4px;
 }
+
+.actual-content div img {
+  height: 200px;
+  width: auto;
+  margin: 24px;
+}
