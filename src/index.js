@@ -1,1 +1,3 @@
-console.log("Hello wolrd!")
+import "./style.css";
+
+
