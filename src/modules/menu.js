@@ -7,6 +7,7 @@ import croissantPhoto from "../assets/croissant.png";
 
 function createMenuItem(name, price, desc, imgPath) {
   const imgDiv = document.createElement("div");
+  
   const imgHeading = document.createElement("h3");
   const imgPrice = document.createElement("h4");
   const imgDesc = document.createElement("p");
