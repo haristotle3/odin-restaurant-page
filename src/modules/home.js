@@ -1,4 +1,3 @@
-import "../style.css";
 import restaurantImage from "../assets/restaurant.png";
 
 function createHome() {

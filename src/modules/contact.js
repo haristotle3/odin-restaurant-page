@@ -1,5 +1,3 @@
-import "../style.css";
-
 function createContactItem(name, title, phoneNo, email) {
   const contactDiv = document.createElement("div");
 

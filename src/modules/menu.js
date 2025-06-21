@@ -1,4 +1,3 @@
-import "../style.css";
 import burgerPhoto from "../assets/hamburger.png";
 import pizzaPhoto from "../assets/pizza.png";
 import orangeJuicePhoto from "../assets/orangeJuice.png";
